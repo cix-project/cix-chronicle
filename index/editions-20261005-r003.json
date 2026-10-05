@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 1,
+  "timeZone": "Australia/Melbourne",
+  "generatedAt": "2026-10-05T11:21:59Z",
+  "editions": [
+    {
+      "id": "hour-20261005T040000Z-r001",
+      "kind": "hour",
+      "status": "published",
+      "title": "A repair, and a review still open",
+      "publishedAt": "2026-10-05T10:06:25Z",
+      "hourStart": "2026-10-05T04:00:00Z",
+      "beatCount": 12,
+      "pdfUrl": "https://raw.githubusercontent.com/cix-project/cix-chronicle/a23af6f5b388467702bcb003dc9004fd06a2b34b/pdf/hour-20261005T040000Z-r001.pdf",
+      "sha256": "4d70831f16a4855535a27f4e9f0dac551b41b6deb4d89c420ff91fb0515ef037"
+    },
+    {
+      "id": "chronicle-20261005-r001",
+      "kind": "book",
+      "status": "published",
+      "title": "CIX Chronicle — first six-page edition",
+      "publishedAt": "2026-10-05T10:34:16Z",
+      "coverageStart": "2024-12-09",
+      "coverageEnd": "2026-10-05",
+      "pdfUrl": "https://raw.githubusercontent.com/cix-project/cix-chronicle/f3cb98b28e1f42447425b24ef2cefeefa34904fc/pdf/chronicle-20261005-r001.pdf",
+      "sha256": "0519d5fc8832dc79f209bdb1bf211fa26e55ce05be70221a0a9943d99563cc19"
+    },
+    {
+      "id": "chapter-20241209-r001",
+      "kind": "chapter",
+      "status": "published",
+      "title": "An index has to fit",
+      "publishedAt": "2026-10-05T11:21:59Z",
+      "weekStart": "2024-12-09",
+      "weekEnd": "2024-12-15",
+      "pageCount": 1,
+      "pdfUrl": "https://raw.githubusercontent.com/cix-project/cix-chronicle/cae0f8189d504f3ea50e08f082555b59d49f3d80/pdf/chapter-20241209-r001.pdf",
+      "sha256": "26ea92490dea7c5b96292cd44153387fe138d165599a87b1a3744987b594fde7",
+      "byteSize": 239004,
+      "sourceEditionId": "chronicle-20261005-r001",
+      "sourcePages": [
+        1
+      ]
+    },
+    {
+      "id": "chapter-20260921-r001",
+      "kind": "chapter",
+      "status": "published",
+      "title": "A research project takes shape",
+      "publishedAt": "2026-10-05T11:21:59Z",
+      "weekStart": "2026-09-21",
+      "weekEnd": "2026-09-27",
+      "pageCount": 1,
+      "pdfUrl": "https://raw.githubusercontent.com/cix-project/cix-chronicle/cae0f8189d504f3ea50e08f082555b59d49f3d80/pdf/chapter-20260921-r001.pdf",
+      "sha256": "7d59d157185be9b107f37027e4c43d19dadc3bd08a6f3b36f96cd69f02fda3bd",
+      "byteSize": 220893,
+      "sourceEditionId": "chronicle-20261005-r001",
+      "sourcePages": [
+        2
+      ]
+    },
+    {
+      "id": "chapter-20260928-r001",
+      "kind": "chapter",
+      "status": "published",
+      "title": "Count the whole result",
+      "publishedAt": "2026-10-05T11:21:59Z",
+      "weekStart": "2026-09-28",
+      "weekEnd": "2026-10-04",
+      "pageCount": 2,
+      "pdfUrl": "https://raw.githubusercontent.com/cix-project/cix-chronicle/cae0f8189d504f3ea50e08f082555b59d49f3d80/pdf/chapter-20260928-r001.pdf",
+      "sha256": "65a790fa382cff29442ea057bd508f40f1159070b9afadf42fc177576b97d967",
+      "byteSize": 352047,
+      "sourceEditionId": "chronicle-20261005-r001",
+      "sourcePages": [
+        3,
+        4
+      ]
+    }
+  ],
+  "publicationNote": "Chapter publishedAt records confirmation that the repository main branch contained the immutable chapter PDFs. Historical coverage is defined separately by weekStart and weekEnd. Book and hour records are preserved from the preceding index."
+}
