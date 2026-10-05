@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "timeZone": "Australia/Melbourne",
+  "generatedAt": "2026-10-05T10:23:00Z",
+  "editions": [
+    {
+      "id": "hour-20261005T040000Z-r001",
+      "kind": "hour",
+      "status": "published",
+      "title": "A repair, and a review still open",
+      "publishedAt": "2026-10-05T10:06:25Z",
+      "hourStart": "2026-10-05T04:00:00Z",
+      "beatCount": 12,
+      "pdfUrl": "https://raw.githubusercontent.com/cix-project/cix-chronicle/a23af6f5b388467702bcb003dc9004fd06a2b34b/pdf/hour-20261005T040000Z-r001.pdf",
+      "sha256": "4d70831f16a4855535a27f4e9f0dac551b41b6deb4d89c420ff91fb0515ef037"
+    }
+  ]
+}
