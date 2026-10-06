@@ -1,0 +1,116 @@
+{
+  "schemaVersion": 1,
+  "timeZone": "Australia/Melbourne",
+  "generatedAt": "2026-10-06T00:55:48Z",
+  "editions": [
+    {
+      "id": "hour-20261005T040000Z-r001",
+      "kind": "hour",
+      "status": "published",
+      "title": "A repair, and a review still open",
+      "publishedAt": "2026-10-05T10:06:25Z",
+      "hourStart": "2026-10-05T04:00:00Z",
+      "beatCount": 12,
+      "pdfUrl": "https://raw.githubusercontent.com/cix-project/cix-chronicle/a23af6f5b388467702bcb003dc9004fd06a2b34b/pdf/hour-20261005T040000Z-r001.pdf",
+      "sha256": "4d70831f16a4855535a27f4e9f0dac551b41b6deb4d89c420ff91fb0515ef037"
+    },
+    {
+      "id": "chronicle-20261005-r001",
+      "kind": "book",
+      "status": "published",
+      "title": "CIX Chronicle — first six-page edition",
+      "publishedAt": "2026-10-05T10:34:16Z",
+      "coverageStart": "2024-12-09",
+      "coverageEnd": "2026-10-05",
+      "pdfUrl": "https://raw.githubusercontent.com/cix-project/cix-chronicle/f3cb98b28e1f42447425b24ef2cefeefa34904fc/pdf/chronicle-20261005-r001.pdf",
+      "sha256": "0519d5fc8832dc79f209bdb1bf211fa26e55ce05be70221a0a9943d99563cc19"
+    },
+    {
+      "id": "chapter-20241209-r001",
+      "kind": "chapter",
+      "status": "published",
+      "title": "An index has to fit",
+      "publishedAt": "2026-10-05T11:21:59Z",
+      "weekStart": "2024-12-09",
+      "weekEnd": "2024-12-15",
+      "pageCount": 1,
+      "pdfUrl": "https://raw.githubusercontent.com/cix-project/cix-chronicle/cae0f8189d504f3ea50e08f082555b59d49f3d80/pdf/chapter-20241209-r001.pdf",
+      "sha256": "26ea92490dea7c5b96292cd44153387fe138d165599a87b1a3744987b594fde7",
+      "byteSize": 239004,
+      "sourceEditionId": "chronicle-20261005-r001",
+      "sourcePages": [
+        1
+      ]
+    },
+    {
+      "id": "chapter-20260921-r001",
+      "kind": "chapter",
+      "status": "published",
+      "title": "A research project takes shape",
+      "publishedAt": "2026-10-05T11:21:59Z",
+      "weekStart": "2026-09-21",
+      "weekEnd": "2026-09-27",
+      "pageCount": 1,
+      "pdfUrl": "https://raw.githubusercontent.com/cix-project/cix-chronicle/cae0f8189d504f3ea50e08f082555b59d49f3d80/pdf/chapter-20260921-r001.pdf",
+      "sha256": "7d59d157185be9b107f37027e4c43d19dadc3bd08a6f3b36f96cd69f02fda3bd",
+      "byteSize": 220893,
+      "sourceEditionId": "chronicle-20261005-r001",
+      "sourcePages": [
+        2
+      ]
+    },
+    {
+      "id": "chapter-20260928-r001",
+      "kind": "chapter",
+      "status": "published",
+      "title": "Count the whole result",
+      "publishedAt": "2026-10-05T11:21:59Z",
+      "weekStart": "2026-09-28",
+      "weekEnd": "2026-10-04",
+      "pageCount": 2,
+      "pdfUrl": "https://raw.githubusercontent.com/cix-project/cix-chronicle/cae0f8189d504f3ea50e08f082555b59d49f3d80/pdf/chapter-20260928-r001.pdf",
+      "sha256": "65a790fa382cff29442ea057bd508f40f1159070b9afadf42fc177576b97d967",
+      "byteSize": 352047,
+      "sourceEditionId": "chronicle-20261005-r001",
+      "sourcePages": [
+        3,
+        4
+      ]
+    },
+    {
+      "id": "origin-known-evidence-20261005-r001",
+      "kind": "book",
+      "status": "published",
+      "title": "CIX origin — twelve known-evidence pages",
+      "publishedAt": "2026-10-06T00:55:48Z",
+      "coverageStart": "2024-12-09",
+      "coverageEnd": "2026-10-05",
+      "volumeType": "origin",
+      "pageCount": 12,
+      "pdfUrl": "https://raw.githubusercontent.com/cix-project/cix-chronicle/242f21bd9fe1241e3e839d86174cefad5886a06b/pdf/origin-known-evidence-20261005-r001.pdf",
+      "sha256": "642f3c63502fa6ecb371d46f86398991ba158c59b7efb9ea21731eedd5c13d68",
+      "byteSize": 6245589,
+      "coverageNote": "This accepted twelve-page origin book reconstructs known evidence. The earliest recovered discussion is not an invention date; original conversations and intervening history remain missing. Present-day role introductions are editorial context, not evidence of historical attendance or canonical character adoption.",
+      "preservationNote": "The original PDFs retain their earlier private-review metadata unchanged. They were subsequently accepted for screen reading and authorized for public development publication. Native halftones and approved clipping are preserved. Physical printing and mobile moiré remain unqualified; no clean or undotted master is claimed.",
+      "snapshotCutoff": null
+    },
+    {
+      "id": "month-known-snapshot-20261005-r001",
+      "kind": "book",
+      "status": "published",
+      "title": "CIX current month — nineteen-page known-evidence snapshot",
+      "publishedAt": "2026-10-06T00:55:48Z",
+      "coverageStart": "2026-10-01",
+      "coverageEnd": "2026-10-05",
+      "volumeType": "month",
+      "pageCount": 19,
+      "pdfUrl": "https://raw.githubusercontent.com/cix-project/cix-chronicle/242f21bd9fe1241e3e839d86174cefad5886a06b/pdf/month-known-snapshot-20261005-r001.pdf",
+      "sha256": "13b81dca47fddfc3ceecee23d66be93d5e2753dfe7520a0f2e067a28f55f9812",
+      "byteSize": 10446626,
+      "coverageNote": "This accepted nineteen-page snapshot covers known activity through 5 October 2026, 22:00 Melbourne. It is not the complete October record or full history. Source gaps do not establish inactivity. Later activity belongs in the next update; reported results and open review or release gates remain separate.",
+      "preservationNote": "The original PDFs retain their earlier private-review metadata unchanged. They were subsequently accepted for screen reading and authorized for public development publication. Native halftones and approved clipping are preserved. Physical printing and mobile moiré remain unqualified; no clean or undotted master is claimed.",
+      "snapshotCutoff": "2026-10-05T22:00:00+11:00"
+    }
+  ],
+  "publicationNote": "The prior five public editions remain unchanged. The two accepted books are public development editions, preserving the exact accepted PDF bytes and their original metadata. Coverage dates describe documentary scope, not continuous activity. New publication timestamps record actual public availability, separately from historical coverage."
+}
